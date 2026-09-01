@@ -1,0 +1,6 @@
+
+	studentized Breusch-Pagan test
+
+data:  model_ols
+BP = 52.291, df = 3, p-value = 2.596e-11
+

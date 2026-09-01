@@ -1,0 +1,2 @@
+interest_rate  unemployment     inflation 
+     1.321336      1.383167      1.156050 

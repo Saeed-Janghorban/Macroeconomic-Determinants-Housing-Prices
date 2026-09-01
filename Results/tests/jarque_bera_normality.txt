@@ -1,0 +1,6 @@
+
+	Jarque Bera Test
+
+data:  residuals_ols
+X-squared = 71.212, df = 2, p-value = 3.331e-16
+
