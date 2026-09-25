@@ -12,7 +12,7 @@ library(car)
 library(sandwich)
 library(tseries)
 
-fredr_set_key("e8ab10a5e4b595f22143da30328c971e")
+fredr_set_key("your set key")
 
 # Housing_data and Visualization and Save
 housing <- fredr(
